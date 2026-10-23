@@ -66,6 +66,6 @@ Are you a professional media buyer, publisher, or content creator? Partner with 
 
 Get the fully compiled, high-resolution source bundle securely via our independent marketplace storefront:
 
-➡️ **[Download the Free 4K SVG Vector Pack on Getly Store](ambient-textures, techwear-aesthetic, saas-boilerplate, and cyberpunk-ui)**
+➡️ **[Download the Free 4K SVG Vector Pack on Getly Store](https://www.getly.store/product/free-chromatic-glitch-matrix-texture-dark-techno-vector-asset)**
 
 *Alternatively, you can access the raw standalone source files directly on our [GitHub Releases Page]*
