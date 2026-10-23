@@ -1,7 +1,6 @@
 # 🎛️ Monochromatic Glitch UI Texture Pack (Free 4K SVG)
 
-[![License: Commercial Allowed](https://shields.io)](#-license--usage)
-[![Format: SVG & 4K PNG](https://shields.io)](#-files-included)
+**License:** Commercial & Personal Allowed | **Format:** SVG & 4K PNG
 
 Production-grade, high-density monochromatic vector wave interference textures designed for tech layouts, SaaS software dashboards, cyber-security interfaces, and modern developer branding.
 
